@@ -338,9 +338,6 @@ vendor/gpu/kbc/unified_ksqs.bin
 vendor/lib/hw/vulkan.adreno.so
 vendor/lib64/hw/vulkan.adreno.so
 
-# IPA firmware
-vendor/etc/init/ipa_fws.rc
-
 # IRQ balance
 vendor/bin/msm_irqbalance
 vendor/etc/msm_irqbalance.conf
